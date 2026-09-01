@@ -2,7 +2,7 @@ Durante la segunda clase se trabajó principalmente en la comprensión y organiz
 Como primera actividad, la profesora entregó información relacionada con el proyecto, a partir de la cual el equipo debía construir un mapa conceptual. Todos los integrantes analizaron el material, tomaron notas y aportaron ideas para determinar cuáles eran los elementos principales y cómo podían relacionarse.
 El mapa se centró en la automatización del registro y sistema de reservas de espacios del Edificio HUB. Durante su elaboración se organizaron aspectos como los conceptos importantes, el contexto, los actores involucrados, las relaciones existentes y las consecuencias del problema.
 Entre los conceptos identificados se encontraron la digitalización del sistema, automatización del registro y plataforma de reservas. También se identificó como contexto el Edificio HUB Providencia y su transición hacia un modelo de edificio inteligente.
-![Mapas](Foto1.jpg)
+![Mapas](Foto 1.jpeg)
 Respecto de los actores, se reconocieron principalmente la administración y los usuarios. A partir del análisis se relacionó el uso de registros manuales con pérdida de tiempo para la administración y se identificó la necesidad de que los usuarios puedan interactuar adecuadamente con el sistema.
 ![Mapas](Foto 2.jpg)
 Entre las consecuencias identificadas se registraron demoras o respuestas nulas, problemas en la gestión, fricción con los usuarios, falta de información y pérdida de tiempo.
