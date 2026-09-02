@@ -1,13 +1,35 @@
-Durante la segunda clase se trabajó principalmente en la comprensión y organización de la información correspondiente al proyecto del Edificio HUB Providencia.
-Como primera actividad, la profesora entregó información relacionada con el proyecto, a partir de la cual el equipo debía construir un mapa conceptual. Todos los integrantes analizaron el material, tomaron notas y aportaron ideas para determinar cuáles eran los elementos principales y cómo podían relacionarse.
-El mapa se centró en la automatización del registro y sistema de reservas de espacios del Edificio HUB. Durante su elaboración se organizaron aspectos como los conceptos importantes, el contexto, los actores involucrados, las relaciones existentes y las consecuencias del problema.
-Entre los conceptos identificados se encontraron la digitalización del sistema, automatización del registro y plataforma de reservas. También se identificó como contexto el Edificio HUB Providencia y su transición hacia un modelo de edificio inteligente.
+# S02 - Comprensión del Proyecto y Práctica de Pitch
+**Fecha:** 25-08-2026
+**Participantes:** 
+* Agatha Meza
+* Deyanira Muñoz
+* Kevin Maicol Stuardo Miranda
+* Ruth Gómez
+* Felipe Gutiérrez
+
+**Responsable del registro:** Felipe Gutiérrez
+
+---
+
+## Objetivo de la sesión
+Analizar y organizar la información del desafío del Edificio HUB Providencia utilizando mapas conceptuales, además de desarrollar habilidades de expresión oral mediante un pitch corto[cite: 12].
+
+## Actividades realizadas
+
+1. **Análisis del desafío:** La profesora entregó los antecedentes del proyecto. Todos los integrantes analizamos el material, tomamos notas y aportamos ideas para determinar cuáles eran los elementos principales y cómo podían relacionarse[cite: 12].
+2. **Construcción del Mapa Conceptual:** Estructuramos el mapa centrado en la automatización del registro y sistema de reservas de espacios del Edificio HUB[cite: 12]. 
+   * Identificamos conceptos clave (digitalización, plataforma de reservas), el contexto (transición hacia un edificio inteligente), y las consecuencias actuales (demoras, fricción con usuarios, pérdida de tiempo)[cite: 12]. 
+   * Reconocimos a la administración y a los usuarios como los actores principales, destacando cómo los registros manuales generan ineficiencias[cite: 12].
+
 ![Mapas](../Fotos/Foto1.jpeg)
-Respecto de los actores, se reconocieron principalmente la administración y los usuarios. A partir del análisis se relacionó el uso de registros manuales con pérdida de tiempo para la administración y se identificó la necesidad de que los usuarios puedan interactuar adecuadamente con el sistema.
 ![Mapas](../Fotos/Foto2.jpeg)
-Entre las consecuencias identificadas se registraron demoras o respuestas nulas, problemas en la gestión, fricción con los usuarios, falta de información y pérdida de tiempo.
-Una vez finalizado, el mapa conceptual fue pegado en la pared del aula para que la profesora pudiera revisarlo. La profesora observó el trabajo realizado y posteriormente se continuó con las actividades de la clase.
-Durante la misma sesión también se realizó un pitch de aproximadamente dos minutos. El tema trabajado por el equipo fue “El arte perdido de contar chistes malos”. El grupo organizó las ideas necesarias para abordar el tema de manera breve y se incorporó un chiste dentro de la exposición, buscando relacionar directamente la presentación con el tema escogido.
+
+3. **Revisión docente:** Una vez finalizado, pegamos el mapa conceptual en la pared del aula para que la profesora pudiera observar el trabajo realizado y darnos retroalimentación[cite: 12].
+4. **Práctica de Pitch:** Durante el segundo bloque, realizamos un pitch de aproximadamente dos minutos sobre el tema aleatorio “El arte perdido de contar chistes malos”[cite: 12]. Organizamos las ideas para abordar el tema de manera breve e incorporamos un chiste dentro de la exposición para conectar directamente con la temática[cite: 12].
+
 ![Mapas](../Fotos/Foto3.jpeg)
-Aprendizaje de la sesión: el trabajo permitió organizar visualmente información de un problema, identificar relaciones entre sus diferentes componentes y sintetizar ideas. La actividad del pitch permitió además practicar la comunicación de un tema dentro de un tiempo limitado.
+
+## Aprendizaje de la sesión
+El trabajo nos permitió organizar visualmente la información de un problema, identificar relaciones entre sus diferentes componentes y sintetizar ideas complejas[cite: 12]. Además, la actividad del pitch fue fundamental para practicar la comunicación de un tema dentro de un tiempo estrictamente limitado[cite: 12].
+
 ![Mapas](../Fotos/Foto4.jpeg)
