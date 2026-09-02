@@ -12,7 +12,7 @@
 ---
 
 ## Objetivo de la sesión
-Presentar el problema de nuestro desafío ante la clase y el equipo docente (Hito 1), evaluar nuestro desempeño como equipo y recibir retroalimentación para futuras iteraciones.
+Presentar el problema de nuestro desafío ante la clase y el equipo docente, evaluar nuestro desempeño como equipo y recibir retroalimentación para futuras iteraciones.
 
 ## Actividades realizadas
 
