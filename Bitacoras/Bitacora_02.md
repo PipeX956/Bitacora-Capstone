@@ -6,7 +6,7 @@
 * Kevin Maicol Stuardo Miranda
 * Ruth Gómez
 
-**Responsable del registro:** Felipe Gutiérrez
+**Responsable del registro:**
 
 ---
 
