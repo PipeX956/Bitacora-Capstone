@@ -18,7 +18,7 @@
 
 ### Valores del Equipo
 * **Compromiso y Puntualidad:** Cumplir rigurosamente con los plazos de entrega y asistencia a las reuniones, asegurando que todos aporten de manera equitativa al desarrollo del proyecto.
-* **Comunicación Transparente:** Mantener un flujo constante de información entre los 5 integrantes, notificando de inmediato cualquier impedimento técnico o de tiempo para apoyarse en equipo.
+* **Comunicación Transparente:** Mantener un flujo constante de información entre los 4 integrantes, notificando de inmediato cualquier impedimento técnico o de tiempo para apoyarse en equipo.
 * **Responsabilidad Compartida:** Asumir un rol activo en las decisiones de diseño y desarrollo, garantizando que el sistema responda eficientemente al problema de los usuarios.
 
 ### Normas y Reglas
