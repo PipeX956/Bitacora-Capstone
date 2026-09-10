@@ -15,7 +15,7 @@
 | Deyanira Muñoz | Diseño de experiencia |
 | Kevin Maicol Stuardo Miranda | Investigación técnica |
 | Ruth Gómez | Análisis de usuarios |
-| Felipe Gutiérrez | Responsable de Documentación y GitHub |
+|  | Responsable de Documentación y GitHub |
 
 ---
 
