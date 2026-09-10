@@ -5,7 +5,6 @@
 * Deyanira Muñoz
 * Kevin Maicol Stuardo Miranda
 * Ruth Gómez
-* Felipe Gutiérrez
 
 **Responsable del registro:** Felipe Gutiérrez
 
